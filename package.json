@@ -1,0 +1,22 @@
+{
+  "name": "material_3_thee",
+  "version": "1.0.0",
+  "description": "Material 3 inspired SCSS theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forjoellobo/material3-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forjoellobo/material3-theme/issues"
+  },
+  "homepage": "https://github.com/forjoellobo/material3-theme#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
