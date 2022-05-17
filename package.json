@@ -2,7 +2,6 @@
   "name": "material_3_thee",
   "version": "1.0.0",
   "description": "Material 3 inspired SCSS theme.",
-  "main": "gulpfile.js",
   "scripts": {
     "scss": "gulp sass",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,16 +17,9 @@
   },
   "homepage": "https://github.com/forjoellobo/material3-theme#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-clean-css": "^4.3.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-debug": "^4.0.0",
-    "gulp-minify": "^3.1.0",
-    "gulp-autoprefixer": "^4.1.0",
-    "gulp-clean": "^0.3.2",
-    "gulp-install": "^1.1.0",
-    "gulp-open": "^2.1.0",
-    "gulp-sass": "^3.1.0",
-    "gulp-sourcemaps": "^2.6.3"
-  }
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-watch": "*"
+  },
+  "keywords": []
 }
